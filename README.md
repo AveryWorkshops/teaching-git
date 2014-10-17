@@ -1,7 +1,7 @@
 teaching-git
 ============
 
-## Teaching Git Activity
+## Teaching Activity
 
 We are planning a trip to France, collaborating on our packing list, itinerary, and other files using git as our version control.
 
