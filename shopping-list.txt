@@ -17,3 +17,9 @@ Dairy
 Ice Cream
 Milk
 Butter
+
+Prepared Dinners
+---------------
+Meat loaf with mashed potatoes and succotash
+Wild salmon on wild rice with brussel sprouts
+Chicken a la King (whatever that is!)
