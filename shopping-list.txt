@@ -3,15 +3,17 @@ Fruits
 Apples
 Oranges
 Bananas
+Grapefruit
 
 Vegetables
 ---------
 Tomatoes
 Peppers
 Onions
-Potatoes
 Kale
 
 Dairy
 -----
 Ice Cream
+Milk
+Butter
