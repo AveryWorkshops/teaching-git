@@ -1,0 +1,19 @@
+Fruits
+------
+Apples
+Oranges
+Bananas
+Grapefruit
+
+Vegetables
+---------
+Tomatoes
+Peppers
+Onions
+Kale
+
+Dairy
+-----
+Ice Cream
+Milk
+Butter
