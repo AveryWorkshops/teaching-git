@@ -4,6 +4,7 @@ Apples
 Oranges
 Bananas
 Grapefruit
+Mangos
 
 Vegetables
 ---------
@@ -11,11 +12,14 @@ Tomatoes
 Peppers
 Onions
 Kale
+Broccoli
+Asparagus
+Yukon Gold Potatoes
 
 Dairy
 -----
 Ice Cream
-Milk
+Milk - Clover Organic, 1/2 gal
 Butter
 
 Prepared Dinners
@@ -23,3 +27,7 @@ Prepared Dinners
 Meat loaf with mashed potatoes and succotash
 Wild salmon on wild rice with brussel sprouts
 Chicken a la King (whatever that is!)
+
+Snacks
+------
+Goldfish
