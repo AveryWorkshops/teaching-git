@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+Malin
 Nicole
-=======
 jenblank
->>>>>>> 48ee41d627fd3474d5804bb734065b5c5bf2165a
