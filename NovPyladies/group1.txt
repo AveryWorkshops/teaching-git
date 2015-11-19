@@ -1,2 +1,6 @@
 Hannah is the best!
+<<<<<<< Updated upstream
 Kauna was here. 
+=======
+Kauna was here. 
+>>>>>>> Stashed changes
