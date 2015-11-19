@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+Anna
+Hi, this is Jen, and I am practicing with this file!
+
+
+=======
 
 Blisseth
 Doggy
 Kitty and Anna
 
  47f93953d45dc9a4ae6b33f25ed212ceb4fdfea2
+>>>>>>> e87713e017a38a3549bab9e4bf724f6337671c9e
